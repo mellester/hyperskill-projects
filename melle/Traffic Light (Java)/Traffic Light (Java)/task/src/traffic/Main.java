@@ -24,5 +24,5 @@ public class Main {
             0. Quit
             """);
   }
-  Collectors.to
+
 }
